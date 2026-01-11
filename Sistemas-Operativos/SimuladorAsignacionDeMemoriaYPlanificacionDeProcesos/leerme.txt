@@ -1,0 +1,17 @@
+# Guía de Ejecución - Simulador de Memoria y Procesos (TFI 2025)
+
+Este simulador ha sido desarrollado en Python para cumplir con los requisitos de la cátedra de Sistemas Operativos (UTN-FRRE). 
+
+## 1. Requisitos Previos
+* Tener instalado Python 3.8 o superior.
+* No requiere la instalación de librerías externas (solo utiliza el módulo `csv` que viene por defecto).
+
+## 2. Preparación de Archivos de Entrada
+El simulador lee la lista de procesos desde un archivo llamado `procesos.csv`. Asegúrese de que el archivo esté en la misma carpeta que el código fuente y tenga el siguiente formato:
+
+## 3. Instrucciones de Ejecución
+1. Abra una terminal o consola de comandos.
+2. Navegue hasta la carpeta donde se encuentra el archivo `simulador.py`.
+3. Ejecute el siguiente comando:
+   ```bash
+   python simulador_ssoo.py

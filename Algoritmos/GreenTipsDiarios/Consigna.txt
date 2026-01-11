@@ -1,0 +1,15 @@
+Título del proyecto:
+Green Tips Diarios: Consejos sostenibles para cada día
+
+Problema que buscan resolver:
+Muchas personas quieren adoptar hábitos más sostenibles, pero no saben por dónde empezar. Además, la sobrecarga de información en redes o sitios web hace difícil encontrar consejos simples, prácticos y confiables. Esta falta de orientación concreta impide la toma de conciencia y la adopción de cambios reales en la vida cotidiana.
+
+Solución propuesta:
+Desarrollar una aplicación por consola en Python que funcione como un calendario diario de consejos ecológicos. Cada vez que el usuario ejecuta el programa, recibe un tip nuevo (elegido aleatoriamente o por fecha) sobre cómo reducir su impacto ambiental en temas como energía, residuos, agua, movilidad, alimentación, etc.
+
+¿Cómo se relaciona con el Green Software?
+- Simplicidad y eficiencia: la aplicación es liviana, funciona en consola sin consumir memoria innecesaria, ni requiere instalación de librerías externas.
+- Concientización y educación: promueve directamente los principios de sostenibilidad a través de recomendaciones prácticas.
+- Optimización de recursos: utiliza archivos .txt para almacenar favoritos e historial, sin bases de datos ni estructuras pesadas.
+- Diseño modular: el código estará organizado por funciones, con condicionales y estructuras de repetición, siguiendo buenas prácticas de desarrollo sostenible.
+- Bajo uso energético: no usa gráficos ni procesos innecesarios, fomentando el uso responsable de la infraestructura digital.
